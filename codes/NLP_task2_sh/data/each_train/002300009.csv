@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0023.00009	Repay has a consensus price target of $15.00, suggesting a potential upside of 9.81%.	Repay has a consensus price target of $15.00	suggesting a potential upside of 9.81%.			0	44	46	85	<e1>Repay has a consensus price target of $15.00</e1>, <e2>suggesting a potential upside of 9.81%.</e2>

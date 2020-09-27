@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0190.00020	The economists who wrote this plan estimate that 75,000 households will pay the tax, and that will generate $2.75 trillion over ten years.	The economists who wrote this plan estimate that 75,000 households will pay the tax	that will generate $2.75 trillion over ten years.			0	83	89	138	<e1>The economists who wrote this plan estimate that 75,000 households will pay the tax</e1>, and <e2>that will generate $2.75 trillion over ten years.</e2>

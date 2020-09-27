@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0204.00006	It is paid in arrears so it can take up to five weeks after you claim to get your first payment.	It is paid in arrears	it can take up to five weeks after you claim to get your first payment.			0	21	25	96	<e1>It is paid in arrears</e1> so <e2>it can take up to five weeks after you claim to get your first payment.</e2>

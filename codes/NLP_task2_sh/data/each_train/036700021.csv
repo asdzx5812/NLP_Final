@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0367.00021	A typical family of four could easily burn through $5,000 (or more) per month on common expenses, depending on circumstances.	common expenses, depending on circumstances.	A typical family of four could easily burn through $5,000 (or more) per month			81	125	0	77	<e2>A typical family of four could easily burn through $5,000 (or more) per month</e2> on <e1>common expenses, depending on circumstances.</e1>

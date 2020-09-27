@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0557.00017	But if you save your money in an online savings account that earned just 2% APY, you'd have $104 at the end of five years.	But if you save your money in an online savings account that earned just 2% APY	you'd have $104 at the end of five years.			0	79	81	122	<e1>But if you save your money in an online savings account that earned just 2% APY</e1>, <e2>you'd have $104 at the end of five years.</e2>

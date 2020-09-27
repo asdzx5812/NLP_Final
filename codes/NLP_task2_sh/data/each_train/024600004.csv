@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0246.00004	Shares of BBGI stock traded up $0.06 during mid-day trading on Wednesday, hitting $3.13.	Shares of BBGI stock traded up $0.06 during mid-day trading on Wednesday	hitting $3.13.			0	72	74	88	<e1>Shares of BBGI stock traded up $0.06 during mid-day trading on Wednesday</e1>, <e2>hitting $3.13.</e2>

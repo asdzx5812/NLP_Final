@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0299.00009	Even firms just over the 25% mark in this chart might think twice since once exemptions are given up they cannot be availed of in future.	once exemptions are given up they cannot be availed of in future.	Even firms just over the 25% mark in this chart might think twice			72	137	0	65	<e2>Even firms just over the 25% mark in this chart might think twice</e2> since <e1>once exemptions are given up they cannot be availed of in future.</e1>

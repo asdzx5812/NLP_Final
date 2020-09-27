@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0248.00035	The bank's deposits base (customer) was N890billion as total assets clinched N1.71trillion.	total assets clinched N1.71trillion.	The bank's deposits base (customer) was N890billion			55	91	0	51	<e2>The bank's deposits base (customer) was N890billion</e2> as <e1>total assets clinched N1.71trillion.</e1>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0367.00009	This modern and well-appointed space generates $500 a month after the mortgage and expenses are taken into account.	the mortgage and expenses are taken into account.	This modern and well-appointed space generates $500 a month			66	115	0	59	<e2>This modern and well-appointed space generates $500 a month</e2> after <e1>the mortgage and expenses are taken into account.</e1>

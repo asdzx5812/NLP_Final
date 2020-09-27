@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0143.00011	Those over age 55 can contribute an extra annual $1,000.	Those over age 55	can contribute an extra annual $1,000.			0	17	18	56	<e1>Those over age 55</e1> <e2>can contribute an extra annual $1,000.</e2>

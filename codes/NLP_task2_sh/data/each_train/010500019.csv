@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0105.00019	Going forward, due to its less risky business profile, it targets a FL CET1 ratio of at least 12.5% compared to 13% previously.	Going forward, due to its less risky business profile	it targets a FL CET1 ratio of at least 12.5% compared to 13% previously.			0	53	55	127	<e1>Going forward, due to its less risky business profile</e1>, <e2>it targets a FL CET1 ratio of at least 12.5% compared to 13% previously.</e2>

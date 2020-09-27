@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0143.00009	20%  Penalty incurred if HSA funds are used for anything but health-care costs prior to 65.	HSA funds are used for anything but health-care costs prior to 65.	20%  Penalty incurred			25	91	0	21	<e2>20%  Penalty incurred</e2> if <e1>HSA funds are used for anything but health-care costs prior to 65.</e1>

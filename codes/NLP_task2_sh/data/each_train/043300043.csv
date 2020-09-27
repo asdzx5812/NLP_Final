@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0433.00043	Further, this 2019 achievement will set us up to breach the $10,000 dividend mark in 2020.	Further, this 2019 achievement	breach the $10,000 dividend mark in 2020.			0	30	49	90	<e1>Further, this 2019 achievement</e1> will set us up to <e2>breach the $10,000 dividend mark in 2020.</e2>

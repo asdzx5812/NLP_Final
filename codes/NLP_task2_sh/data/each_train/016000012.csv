@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0160.00012	In company news, tour operator Thomas Cook confirmed it is seeking £200 million in extra funding as it attempts to prevent a collapse.	it attempts to prevent a collapse.	In company news, tour operator Thomas Cook confirmed it is seeking £200 million in extra funding			100	134	0	96	<e2>In company news, tour operator Thomas Cook confirmed it is seeking £200 million in extra funding</e2> as <e1>it attempts to prevent a collapse.</e1>

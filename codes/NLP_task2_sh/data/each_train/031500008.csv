@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0315.00008	In the last five years, the NJEDA has awarded $230 million in tax incentives to warehouse operators.	warehouse operators.	In the last five years, the NJEDA has awarded $230 million in tax incentives			80	100	0	76	<e2>In the last five years, the NJEDA has awarded $230 million in tax incentives</e2> to <e1>warehouse operators.</e1>

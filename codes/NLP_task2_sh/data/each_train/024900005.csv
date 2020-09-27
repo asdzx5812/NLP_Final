@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0249.00005	Shares of CAG stock traded up $0.15 during trading hours on Friday, hitting $29.81.	Shares of CAG stock traded up $0.15 during trading hours on Friday	hitting $29.81.			0	66	68	83	<e1>Shares of CAG stock traded up $0.15 during trading hours on Friday</e1>, <e2>hitting $29.81.</e2>

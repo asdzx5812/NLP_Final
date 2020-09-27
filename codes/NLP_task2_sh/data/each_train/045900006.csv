@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0459.00006	For the 2019 financial year, the company expects output of between 82,000 and 86,000 GEOs based on metal prices as of 1 January.	metal prices as of 1 January.	For the 2019 financial year, the company expects output of between 82,000 and 86,000 GEOs			99	128	0	89	<e2>For the 2019 financial year, the company expects output of between 82,000 and 86,000 GEOs</e2> based on <e1>metal prices as of 1 January.</e1>

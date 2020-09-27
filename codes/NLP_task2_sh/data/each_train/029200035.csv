@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0292.00035	Failing to submit or pay a VAT return carries a fixed surcharge of up to 15% based on how many times you default in a 12 month period.	Failing to submit or pay a VAT return	a fixed surcharge of up to 15% based on how many times you default in a 12 month period.			0	37	46	134	<e1>Failing to submit or pay a VAT return</e1> carries <e2>a fixed surcharge of up to 15% based on how many times you default in a 12 month period.</e2>

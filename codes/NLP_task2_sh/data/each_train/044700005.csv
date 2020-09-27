@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0447.00005	Honey bee populations generally see a decline after winter, with about 30 percent losses in a typical year.	Honey bee populations generally see a decline after winter	about 30 percent losses in a typical year.			0	58	65	107	<e1>Honey bee populations generally see a decline after winter</e1>, with <e2>about 30 percent losses in a typical year.</e2>

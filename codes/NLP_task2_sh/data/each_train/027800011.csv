@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0278.00011	The BBC reported that the government had chartered 45 jets to get people home.	get people home.	The BBC reported that the government had chartered 45 jets			62	78	0	58	<e2>The BBC reported that the government had chartered 45 jets</e2> to <e1>get people home.</e1>

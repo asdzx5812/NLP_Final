@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0573.00007	Ventas stock traded up $0.42 during mid-day trading on Monday, reaching $72.63. 1,648,346 shares of the company traded hands, compared to its average volume of 2,125,691.	Ventas stock traded up $0.42 during mid-day trading on Monday	reaching $72.63.			0	61	63	79	<e1>Ventas stock traded up $0.42 during mid-day trading on Monday</e1>, <e2>reaching $72.63.</e2> 1,648,346 shares of the company traded hands, compared to its average volume of 2,125,691.

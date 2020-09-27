@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0061.00007	Based upon the most recent annualized dividend rate of 2.12/share, we calculate that INTU has a current yield of approximately 0.79%.	Based upon the most recent annualized dividend rate of 2.12/share	we calculate that INTU has a current yield of approximately 0.79%.			0	65	67	133	<e1>Based upon the most recent annualized dividend rate of 2.12/share</e1>, <e2>we calculate that INTU has a current yield of approximately 0.79%.</e2>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0237.00025	One investor, Fosun Tourism Group, the owner of Club Med, had committed £450m to Thomas Cook under the plan to save the business.	the plan to save the business.	One investor, Fosun Tourism Group, the owner of Club Med, had committed £450m to Thomas Cook			99	129	0	92	<e2>One investor, Fosun Tourism Group, the owner of Club Med, had committed £450m to Thomas Cook</e2> under <e1>the plan to save the business.</e1>

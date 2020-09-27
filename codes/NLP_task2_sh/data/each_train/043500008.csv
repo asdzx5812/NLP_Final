@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0435.00008	GTLS traded up $1.91 during trading on Wednesday, hitting $70.69. 8,663 shares of the stock traded hands, compared to its average volume of 332,566.	GTLS traded up $1.91 during trading on Wednesday	hitting $70.69.			0	48	50	65	<e1>GTLS traded up $1.91 during trading on Wednesday</e1>, <e2>hitting $70.69.</e2> 8,663 shares of the stock traded hands, compared to its average volume of 332,566.

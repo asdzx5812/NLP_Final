@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0095.00088	The academic literature finds that a 1 percent reduction in trade costs can result in a 0.4 percent increase in trade flows.	The academic literature finds that a 1 percent reduction in trade costs	a 0.4 percent increase in trade flows.			0	71	86	124	<e1>The academic literature finds that a 1 percent reduction in trade costs</e1> can result in <e2>a 0.4 percent increase in trade flows.</e2>

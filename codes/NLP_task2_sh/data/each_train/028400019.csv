@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0284.00019	He has also secured a $500 million credit line from banks using company stock as collateral.	using company stock as collateral.	He has also secured a $500 million credit line from banks			58	92	0	57	<e2>He has also secured a $500 million credit line from banks</e2> <e1>using company stock as collateral.</e1>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0479.00008	NIO's stock price has fallen by over 60% since it began listing its shares on US exchanges in September 2018, as of Tuesday morning.	it began listing its shares on US exchanges in September 2018, as of Tuesday morning.	NIO's stock price has fallen by over 60%			47	132	0	40	<e2>NIO's stock price has fallen by over 60%</e2> since <e1>it began listing its shares on US exchanges in September 2018, as of Tuesday morning.</e1>

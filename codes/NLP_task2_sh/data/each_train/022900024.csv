@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0229.00024	Nike's stock surged in the days after the campaign debuted, increasing the company's value by more than $6 billion two weeks later.	Nike's stock surged in the days after the campaign debuted	increasing the company's value by more than $6 billion two weeks later.			0	58	60	131	<e1>Nike's stock surged in the days after the campaign debuted</e1>, <e2>increasing the company's value by more than $6 billion two weeks later.</e2>

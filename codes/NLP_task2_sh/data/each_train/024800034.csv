@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0248.00034	A re-emerging Union Bank recorded a net profit of N11.9billion with loans and advances portfolio standing at N563billion.	loans and advances portfolio standing at N563billion.	A re-emerging Union Bank recorded a net profit of N11.9billion			68	121	0	62	<e2>A re-emerging Union Bank recorded a net profit of N11.9billion</e2> with <e1>loans and advances portfolio standing at N563billion.</e1>

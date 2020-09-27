@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0304.00007	American taxpayers also forked over $10bn to save the company.	save the company.	American taxpayers also forked over $10bn			45	62	0	41	<e2>American taxpayers also forked over $10bn</e2> to <e1>save the company.</e1>

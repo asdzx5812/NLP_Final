@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0143.00008	55  Age at which individuals can contribute an extra $1,000.	55  Age	individuals can contribute an extra $1,000.			0	7	17	60	<e1>55  Age</e1> at which <e2>individuals can contribute an extra $1,000.</e2>

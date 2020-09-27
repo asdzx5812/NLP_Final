@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0576.00002	More than 200 people may have lost huge sums of money after investing into two high-risk pensions schemes, officials have said.	investing into two high-risk pensions schemes, officials have said.	More than 200 people may have lost huge sums of money			60	127	0	53	<e2>More than 200 people may have lost huge sums of money</e2> after <e1>investing into two high-risk pensions schemes, officials have said.</e1>

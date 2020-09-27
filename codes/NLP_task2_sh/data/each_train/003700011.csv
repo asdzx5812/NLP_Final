@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0037.00011	Shares of Chipotle climbed as much as 4% after the company announced a new carne asada meat option.	the company announced a new carne asada meat option.	Shares of Chipotle climbed as much as 4%			47	99	0	40	<e2>Shares of Chipotle climbed as much as 4%</e2> after <e1>the company announced a new carne asada meat option.</e1>

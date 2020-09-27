@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0097.00007	In the last fiscal year, the UP government paid Rs 86 lakh as the ministers' tax bill.	the ministers' tax bill.	In the last fiscal year, the UP government paid Rs 86 lakh			62	86	0	58	<e2>In the last fiscal year, the UP government paid Rs 86 lakh</e2> as <e1>the ministers' tax bill.</e1>

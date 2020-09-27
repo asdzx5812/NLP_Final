@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0303.00077	The Lesers spent $9,000 to fix a bathroom the authority refused to repair.	fix a bathroom the authority refused to repair.	The Lesers spent $9,000			27	74	0	23	<e2>The Lesers spent $9,000</e2> to <e1>fix a bathroom the authority refused to repair.</e1>

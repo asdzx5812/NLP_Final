@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0263.00018	An additional $25 million is needed to implement the Alabama Literacy Act, Mackey said.	implement the Alabama Literacy Act, Mackey said.	An additional $25 million is needed			39	87	0	35	<e2>An additional $25 million is needed</e2> to <e1>implement the Alabama Literacy Act, Mackey said.</e1>

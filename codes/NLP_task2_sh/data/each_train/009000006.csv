@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0090.00006	The company currently insures the pensions of over 770,000 individuals, paying a total of £1.9 billion in pension benefits each year.	The company currently insures the pensions of over 770,000 individuals	paying a total of £1.9 billion in pension benefits each year.			0	70	72	133	<e1>The company currently insures the pensions of over 770,000 individuals</e1>, <e2>paying a total of £1.9 billion in pension benefits each year.</e2>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0459.00003	The growth in first-half production resulted in an 8% rise in revenue to US$43.3mln and an 27% jump in pre-tax profit to US$10.3mln.	The growth in first-half production	an 8% rise in revenue to US$43.3mln and an 27% jump in pre-tax profit to US$10.3mln.			0	35	48	132	<e1>The growth in first-half production</e1> resulted in <e2>an 8% rise in revenue to US$43.3mln and an 27% jump in pre-tax profit to US$10.3mln.</e2>

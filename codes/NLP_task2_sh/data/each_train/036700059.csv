@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0367.00059	If you make $30,000 a year as I did for a few years after college, saving 50% of a low income would be difficult.	If you make $30,000 a year as I did for a few years after college	saving 50% of a low income would be difficult.			0	65	67	113	<e1>If you make $30,000 a year as I did for a few years after college</e1>, <e2>saving 50% of a low income would be difficult.</e2>

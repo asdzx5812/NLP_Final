@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0068.00019	Then this year's proposed reassessment arrived, valuing the house even higher at $2.3 million.	Then this year's proposed reassessment arrived	valuing the house even higher at $2.3 million.			0	46	48	94	<e1>Then this year's proposed reassessment arrived</e1>, <e2>valuing the house even higher at $2.3 million.</e2>

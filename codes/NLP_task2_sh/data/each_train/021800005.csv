@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0218.00005	Herman Miller Inc., up 64 cents to $45.11  The furniture maker's fiscal first quarter profit and revenue beat Wall Street forecasts.	The furniture maker's fiscal first quarter profit and revenue beat Wall Street forecasts.	Herman Miller Inc., up 64 cents to $45.11			43	132	0	41	<e2>Herman Miller Inc., up 64 cents to $45.11</e2>  <e1>The furniture maker's fiscal first quarter profit and revenue beat Wall Street forecasts.</e1>

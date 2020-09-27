@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0386.00014	Shares of NASDAQ:XON traded up $0.17 on Tuesday, reaching $6.42.	Shares of NASDAQ:XON traded up $0.17 on Tuesday	reaching $6.42.			0	47	49	64	<e1>Shares of NASDAQ:XON traded up $0.17 on Tuesday</e1>, <e2>reaching $6.42.</e2>

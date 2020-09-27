@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0140.00013	The company reported ($0.39) EPS for the quarter, topping analysts' consensus estimates of ($0.47) by $0.08.	The company reported ($0.39) EPS for the quarter	topping analysts' consensus estimates of ($0.47) by $0.08.			0	48	50	108	<e1>The company reported ($0.39) EPS for the quarter</e1>, <e2>topping analysts' consensus estimates of ($0.47) by $0.08.</e2>

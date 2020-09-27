@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0439.00003	Shares of BATS:PBDM traded down $1.22 during midday trading on Monday, reaching $22.82.	Shares of BATS:PBDM traded down $1.22 during midday trading on Monday	reaching $22.82.			0	69	71	87	<e1>Shares of BATS:PBDM traded down $1.22 during midday trading on Monday</e1>, <e2>reaching $22.82.</e2>

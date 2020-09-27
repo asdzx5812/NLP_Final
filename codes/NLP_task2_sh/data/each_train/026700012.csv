@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0267.00012	If we have a clean break-out, the price target would be somewhere in the region of $200 a share.	If we have a clean break-out	the price target would be somewhere in the region of $200 a share.			0	28	30	96	<e1>If we have a clean break-out</e1>, <e2>the price target would be somewhere in the region of $200 a share.</e2>

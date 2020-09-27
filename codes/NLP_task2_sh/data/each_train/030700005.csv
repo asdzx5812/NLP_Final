@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0307.00005	It had an almost 46 per cent decline in gross income last financial year to 2016-17 when water levels were high.	water levels were high.	It had an almost 46 per cent decline in gross income last financial year to 2016-17			89	112	0	83	<e2>It had an almost 46 per cent decline in gross income last financial year to 2016-17</e2> when <e1>water levels were high.</e1>

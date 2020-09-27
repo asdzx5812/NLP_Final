@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0242.00014	Not surprisingly, Mapletree Industrial Trust increased the size of its private placement to S$400 million after it was covered 6.3 times.	it was covered 6.3 times.	Not surprisingly, Mapletree Industrial Trust increased the size of its private placement to S$400 million			112	137	0	105	<e2>Not surprisingly, Mapletree Industrial Trust increased the size of its private placement to S$400 million</e2> after <e1>it was covered 6.3 times.</e1>

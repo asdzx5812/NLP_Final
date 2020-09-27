@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0147.00018	The final 18 months are exempt as she lived in the flat for 12 months as her main residence.	she lived in the flat for 12 months as her main residence.	The final 18 months are exempt			34	92	0	30	<e2>The final 18 months are exempt</e2> as <e1>she lived in the flat for 12 months as her main residence.</e1>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0523.00012	Oil CLV19, +0.88% is up as an Iranian diplomat in case of an attack over the weekend Saudi drone strike.	an Iranian diplomat in case of an attack over the weekend Saudi drone strike.	Oil CLV19, +0.88% is up			27	104	0	23	<e2>Oil CLV19, +0.88% is up</e2> as <e1>an Iranian diplomat in case of an attack over the weekend Saudi drone strike.</e1>

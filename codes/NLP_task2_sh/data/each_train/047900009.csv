@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0479.00009	Earlier this year, the company recalled 4,803 ES8 SUVs following reports of three vehicles catching fire.	reports of three vehicles catching fire.	Earlier this year, the company recalled 4,803 ES8 SUVs			65	105	0	54	<e2>Earlier this year, the company recalled 4,803 ES8 SUVs</e2> following <e1>reports of three vehicles catching fire.</e1>

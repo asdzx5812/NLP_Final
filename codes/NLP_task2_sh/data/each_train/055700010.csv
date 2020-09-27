@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0557.00010	If you prefer a high-yield savings account, Vio Bank has an option that pays 2.52% on all balances , with a minimum of $100 required to open.	If you prefer a high-yield savings account	Vio Bank has an option that pays 2.52% on all balances , with a minimum of $100 required to open.			0	42	44	141	<e1>If you prefer a high-yield savings account</e1>, <e2>Vio Bank has an option that pays 2.52% on all balances , with a minimum of $100 required to open.</e2>

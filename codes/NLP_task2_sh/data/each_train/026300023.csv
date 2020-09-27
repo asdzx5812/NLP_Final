@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0263.00023	He wants more than $48 million in additional state funding for children in special education and for English language learners.	children in special education and for English language learners.	He wants more than $48 million in additional state funding			63	127	0	58	<e2>He wants more than $48 million in additional state funding</e2> for <e1>children in special education and for English language learners.</e1>

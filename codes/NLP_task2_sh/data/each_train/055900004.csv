@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0559.00004	The company's collapse would put 20,000 jobs at risk, including about 9,000 in the UK.	The company's collapse	would put 20,000 jobs at risk, including about 9,000 in the UK.			0	22	23	86	<e1>The company's collapse</e1> <e2>would put 20,000 jobs at risk, including about 9,000 in the UK.</e2>

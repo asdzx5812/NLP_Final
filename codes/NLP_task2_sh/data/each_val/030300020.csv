@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0303.00020	She became director in 2008, eventually earning $115,000 a year.	She became director in 2008	earning $115,000 a year.			0	27	40	64	<e1>She became director in 2008</e1>, eventually <e2>earning $115,000 a year.</e2>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0018.00009	The financial services provider reported $0.40 earnings per share (EPS) for the quarter, missing the consensus estimate of $0.82 by ($0.42).	The financial services provider reported $0.40 earnings per share (EPS) for the quarter	missing the consensus estimate of $0.82 by ($0.42).			0	87	89	140	<e1>The financial services provider reported $0.40 earnings per share (EPS) for the quarter</e1>, <e2>missing the consensus estimate of $0.82 by ($0.42).</e2>

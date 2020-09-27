@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0475.00026	To attain universal access to education, 48 multi-grade schools have been constructed through World Bank support.	To attain universal access to education	48 multi-grade schools have been constructed through World Bank support.			0	39	41	113	<e1>To attain universal access to education</e1>, <e2>48 multi-grade schools have been constructed through World Bank support.</e2>

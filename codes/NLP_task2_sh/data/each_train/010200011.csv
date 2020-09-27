@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0102.00011	Retail Value has a consensus target price of $38.00, indicating a potential upside of 1.58%.	Retail Value has a consensus target price of $38.00	indicating a potential upside of 1.58%.			0	51	53	92	<e1>Retail Value has a consensus target price of $38.00</e1>, <e2>indicating a potential upside of 1.58%.</e2>

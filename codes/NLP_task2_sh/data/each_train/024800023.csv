@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0248.00023	Zenith maintained its second position in loans and deposits with N1.8trillion and N3.81trillion in deposits from customers.	N1.8trillion and N3.81trillion in deposits from customers.	Zenith maintained its second position in loans and deposits			65	123	0	59	<e2>Zenith maintained its second position in loans and deposits</e2> with <e1>N1.8trillion and N3.81trillion in deposits from customers.</e1>

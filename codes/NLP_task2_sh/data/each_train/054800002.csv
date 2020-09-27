@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0548.00002	The stock has seen year over year sales growth of 0.19432 giving it a traded value of $109983.	The stock has seen year over year sales growth of 0.19432	giving it a traded value of $109983.			0	57	58	94	<e1>The stock has seen year over year sales growth of 0.19432</e1> <e2>giving it a traded value of $109983.</e2>

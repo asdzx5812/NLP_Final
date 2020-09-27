@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0167.00012	As We's valuation falls, it needs to issue ever more shares to reach the $3 billion mark.	As We's valuation falls	it needs to issue ever more shares to reach the $3 billion mark.			0	23	25	89	<e1>As We's valuation falls</e1>, <e2>it needs to issue ever more shares to reach the $3 billion mark.</e2>

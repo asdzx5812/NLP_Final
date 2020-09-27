@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0473.00003	Shares were down 18% to $12.21 on Monday, after the company also cut earnings guidance.	the company also cut earnings guidance.	Shares were down 18% to $12.21 on Monday,			48	87	0	41	<e2>Shares were down 18% to $12.21 on Monday,</e2> after <e1>the company also cut earnings guidance.</e1>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0248.00026	Again, the bank took a third place in deposits as it was able to garner N3.51trillion from customers in the review period.	it was able to garner N3.51trillion from customers in the review period.	Again, the bank took a third place in deposits			50	122	0	46	<e2>Again, the bank took a third place in deposits</e2> as <e1>it was able to garner N3.51trillion from customers in the review period.</e1>

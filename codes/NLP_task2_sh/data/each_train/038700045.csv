@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0387.00045	Currently, one of our favorite picks in Anally Capital (NLY) with a yield of 12%, and which can double in price in case we hit a recession.	we hit a recession.	Currently, one of our favorite picks in Anally Capital (NLY) with a yield of 12%, and which can double in price			120	139	0	111	<e2>Currently, one of our favorite picks in Anally Capital (NLY) with a yield of 12%, and which can double in price</e2> in case <e1>we hit a recession.</e1>

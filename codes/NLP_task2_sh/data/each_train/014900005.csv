@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0149.00005	Councillors heard that moving to collection every second week would save the city $500,000 a year.	Councillors heard that moving to collection every second week	would save the city $500,000 a year.			0	61	62	98	<e1>Councillors heard that moving to collection every second week</e1> <e2>would save the city $500,000 a year.</e2>

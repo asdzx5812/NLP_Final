@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0349.00005	i3 Verticals has a consensus price target of $26.20, suggesting a potential upside of 28.12%.	i3 Verticals has a consensus price target of $26.20	suggesting a potential upside of 28.12%.			0	51	53	93	<e1>i3 Verticals has a consensus price target of $26.20</e1>, <e2>suggesting a potential upside of 28.12%.</e2>

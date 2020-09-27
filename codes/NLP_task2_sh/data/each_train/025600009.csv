@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0256.00009	By lending Mike $50, the bank creates a deposit for $50 that Mike can now use.	By lending Mike $50	the bank creates a deposit for $50 that Mike can now use.			0	19	21	78	<e1>By lending Mike $50</e1>, <e2>the bank creates a deposit for $50 that Mike can now use.</e2>

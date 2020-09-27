@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0259.00002	The CAA said 71 flights had operated on Wednesday, bringing back around 17,000 passengers.	The CAA said 71 flights had operated on Wednesday	bringing back around 17,000 passengers.			0	49	51	90	<e1>The CAA said 71 flights had operated on Wednesday</e1>, <e2>bringing back around 17,000 passengers.</e2>

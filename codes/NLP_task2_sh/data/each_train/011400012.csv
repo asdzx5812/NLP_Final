@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0114.00012	The bank reported $0.38 earnings per share (EPS) for the quarter, topping the consensus estimate of $0.34 by $0.04.	The bank reported $0.38 earnings per share (EPS) for the quarter	topping the consensus estimate of $0.34 by $0.04.			0	64	66	115	<e1>The bank reported $0.38 earnings per share (EPS) for the quarter</e1>, <e2>topping the consensus estimate of $0.34 by $0.04.</e2>

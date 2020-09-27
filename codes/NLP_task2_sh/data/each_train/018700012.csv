@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0187.00012	Property transfer tax revenue decreased by $315 million, or 14.7 per cent  -  a shift the government attributed to weaker housing sales.	weaker housing sales.	Property transfer tax revenue decreased by $315 million, or 14.7 per cent			115	136	0	73	<e2>Property transfer tax revenue decreased by $315 million, or 14.7 per cent</e2>  -  a shift the government attributed to <e1>weaker housing sales.</e1>

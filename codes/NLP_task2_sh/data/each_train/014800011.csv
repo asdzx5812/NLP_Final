@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0148.00011	Rivian added that when the fleet is fully deployed, it will save 4 million metric tons of CO2 a year.	Rivian added that when the fleet is fully deployed	it will save 4 million metric tons of CO2 a year.			0	50	52	101	<e1>Rivian added that when the fleet is fully deployed</e1>, <e2>it will save 4 million metric tons of CO2 a year.</e2>

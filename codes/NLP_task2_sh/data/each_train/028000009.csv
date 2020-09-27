@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0280.00009	As Chappatta wrote there, those spreads implied a 4% chance of an Altria default over the next five years.	As Chappatta wrote there, those spreads	a 4% chance of an Altria default over the next five years.			0	39	48	106	<e1>As Chappatta wrote there, those spreads</e1> implied <e2>a 4% chance of an Altria default over the next five years.</e2>

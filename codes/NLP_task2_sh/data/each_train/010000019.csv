@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0100.00019	Americans burn about 400 million gallons of gasoline a day, so a 25 cent increase would cost consumers about $100 million a day.	Americans burn about 400 million gallons of gasoline a day	a 25 cent increase would cost consumers about $100 million a day.			0	58	63	128	<e1>Americans burn about 400 million gallons of gasoline a day</e1>, so <e2>a 25 cent increase would cost consumers about $100 million a day.</e2>

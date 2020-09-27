@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0301.00011	Eligible deposits are protected up to £85,000 per banking licence with the FSCS.	the FSCS.	Eligible deposits are protected up to £85,000 per banking licence			71	80	0	65	<e2>Eligible deposits are protected up to £85,000 per banking licence</e2> with <e1>the FSCS.</e1>

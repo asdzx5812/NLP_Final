@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0565.00027	In the last three months, insiders sold 56,566 shares of company stock worth $8,347,056. Insiders own 0.73% of the company's stock.	In the last three months, insiders sold 56,566 shares of company stock worth $8,347,056.	Insiders own 0.73% of the company's stock.	88		0	88	89	131	<e1>In the last three months, insiders sold 56,566 shares of company stock worth $8,347,056.</e1> <e2>Insiders own 0.73% of the company's stock.</e2>

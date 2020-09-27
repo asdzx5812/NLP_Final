@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0216.00008	Now down to 6-8% due to drop in housing prices), he wrote.	drop in housing prices), he wrote.	Now down to 6-8%			24	58	0	16	<e2>Now down to 6-8%</e2> due to <e1>drop in housing prices), he wrote.</e1>

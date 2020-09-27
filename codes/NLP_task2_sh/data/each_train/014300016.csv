@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0143.00016	Money taken out prior to age 65 and used for anything but health-care expenses are subject not only to income taxes, but a 20% penalty, too.	Money taken out prior to age 65 and used for anything but health-care expenses	not only to income taxes, but a 20% penalty, too.			0	78	91	140	<e1>Money taken out prior to age 65 and used for anything but health-care expenses</e1> are subject <e2>not only to income taxes, but a 20% penalty, too.</e2>

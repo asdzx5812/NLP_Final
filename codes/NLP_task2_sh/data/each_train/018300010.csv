@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0183.00010	Electrameccanica Vehicles has a consensus price target of $6.00, indicating a potential upside of 154.24%.	Electrameccanica Vehicles has a consensus price target of $6.00	indicating a potential upside of 154.24%.			0	63	65	106	<e1>Electrameccanica Vehicles has a consensus price target of $6.00</e1>, <e2>indicating a potential upside of 154.24%.</e2>

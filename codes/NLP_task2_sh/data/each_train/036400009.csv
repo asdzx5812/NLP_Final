@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0364.00009	The utilities provider reported $0.11 EPS for the quarter, missing the consensus estimate of $0.13 by ($0.02).	The utilities provider reported $0.11 EPS for the quarter	missing the consensus estimate of $0.13 by ($0.02).			0	57	59	110	<e1>The utilities provider reported $0.11 EPS for the quarter</e1>, <e2>missing the consensus estimate of $0.13 by ($0.02).</e2>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0545.00006	A collapse would leave up to 150,000 UK holidaymakers stranded and the Government is being urged to step in to help save the business.	A collapse	would leave up to 150,000 UK holidaymakers stranded and the Government is being urged to step in to help save the business.			0	10	11	134	<e1>A collapse</e1> <e2>would leave up to 150,000 UK holidaymakers stranded and the Government is being urged to step in to help save the business.</e2>

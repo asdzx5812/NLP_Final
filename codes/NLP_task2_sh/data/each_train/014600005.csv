@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0146.00005	Shares of Apple climbed about 1% as the tech giant's latest slate of iPhones became available in stores.	the tech giant's latest slate of iPhones became available in stores.	Shares of Apple climbed about 1%			36	104	0	32	<e2>Shares of Apple climbed about 1%</e2> as <e1>the tech giant's latest slate of iPhones became available in stores.</e1>

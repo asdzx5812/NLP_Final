@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0093.00003	Timely rain-guarding has jacked up natural rubber output by 14,000 tonne in July, on an year-on-year basis, says Rubber Board.	Timely rain-guarding	has jacked up natural rubber output by 14,000 tonne in July, on an year-on-year basis, says Rubber Board.			0	20	21	126	<e1>Timely rain-guarding</e1> <e2>has jacked up natural rubber output by 14,000 tonne in July, on an year-on-year basis, says Rubber Board.</e2>

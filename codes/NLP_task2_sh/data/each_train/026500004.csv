@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0265.00004	Aaron's has a dividend payout ratio of 4.1% indicating that its dividend is sufficiently covered by earnings.	its dividend is sufficiently covered by earnings.	Aaron's has a dividend payout ratio of 4.1%			60	109	0	43	<e2>Aaron's has a dividend payout ratio of 4.1%</e2> indicating that <e1>its dividend is sufficiently covered by earnings.</e1>

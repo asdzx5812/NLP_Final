@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0363.00016	If a withdrawal is made prior to age 59½, a 10% federal income tax penalty may apply (unless an exception applies).	If a withdrawal is made prior to age 59½	a 10% federal income tax penalty may apply (unless an exception applies).			0	40	42	115	<e1>If a withdrawal is made prior to age 59½</e1>, <e2>a 10% federal income tax penalty may apply (unless an exception applies).</e2>

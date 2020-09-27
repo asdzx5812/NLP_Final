@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0049.00007	In Leitrim, the 15 per cent increase will go towards tourism development, regeneration of town centres and community development.	towards tourism development, regeneration of town centres and community development.	In Leitrim, the 15 per cent increase			45	129	0	36	<e2>In Leitrim, the 15 per cent increase</e2> will go <e1>towards tourism development, regeneration of town centres and community development.</e1>

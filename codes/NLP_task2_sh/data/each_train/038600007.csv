@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0386.00007	The biotechnology company reported ($0.25) earnings per share for the quarter, topping analysts' consensus estimates of ($0.30) by $0.05.	The biotechnology company reported ($0.25) earnings per share for the quarter	topping analysts' consensus estimates of ($0.30) by $0.05.			0	77	79	137	<e1>The biotechnology company reported ($0.25) earnings per share for the quarter</e1>, <e2>topping analysts' consensus estimates of ($0.30) by $0.05.</e2>

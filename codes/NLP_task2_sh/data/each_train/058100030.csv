@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0581.00030	Inc. now owns 699,348 shares of the company's stock worth $9,861,000 after buying an additional 297,267 shares during the period.	buying an additional 297,267 shares during the period.	Inc. now owns 699,348 shares of the company's stock worth $9,861,000			75	129	0	68	<e2>Inc. now owns 699,348 shares of the company's stock worth $9,861,000</e2> after <e1>buying an additional 297,267 shares during the period.</e1>

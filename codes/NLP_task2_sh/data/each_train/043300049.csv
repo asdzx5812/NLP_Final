@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0433.00049	The DGR in the Roth is lower at 5.4% due primarily to its holding of REITs.	its holding of REITs.	The DGR in the Roth is lower at 5.4%			54	75	0	36	<e2>The DGR in the Roth is lower at 5.4%</e2> due primarily to <e1>its holding of REITs.</e1>

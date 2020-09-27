@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0355.00003	NYSEARCA:PWV traded down $0.18 during mid-day trading on Monday, hitting $38.63. 52,492 shares of the stock traded hands, compared to its average volume of 103,623.	NYSEARCA:PWV traded down $0.18 during mid-day trading on Monday	hitting $38.63.			0	63	65	80	<e1>NYSEARCA:PWV traded down $0.18 during mid-day trading on Monday</e1>, <e2>hitting $38.63.</e2> 52,492 shares of the stock traded hands, compared to its average volume of 103,623.

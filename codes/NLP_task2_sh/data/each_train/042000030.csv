@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0420.00030	If you are married and file jointly, you can't make more than $203,000 each year.	If you are married and file jointly	you can't make more than $203,000 each year.			0	35	37	81	<e1>If you are married and file jointly</e1>, <e2>you can't make more than $203,000 each year.</e2>

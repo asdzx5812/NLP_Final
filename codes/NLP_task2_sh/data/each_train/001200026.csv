@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0012.00026	The Leave win led to an 11 percent drop in GBP/USD overnight.	The Leave win	an 11 percent drop in GBP/USD overnight.			0	13	21	61	<e1>The Leave win</e1> led to <e2>an 11 percent drop in GBP/USD overnight.</e2>

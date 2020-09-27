@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0302.00009	It was feared the collapse would leave up to 150,000 UK holidaymakers stranded.	It was feared the collapse	would leave up to 150,000 UK holidaymakers stranded.			0	26	27	79	<e1>It was feared the collapse</e1> <e2>would leave up to 150,000 UK holidaymakers stranded.</e2>

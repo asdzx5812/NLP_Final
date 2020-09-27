@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0003.00015	After $0.46 actual EPS reported by Sabra Health Care REIT, Inc. for the previous quarter, Wall Street now forecasts 2.17% EPS growth.	After $0.46 actual EPS reported by Sabra Health Care REIT, Inc. for the previous quarter	Wall Street now forecasts 2.17% EPS growth.			0	88	90	133	<e1>After $0.46 actual EPS reported by Sabra Health Care REIT, Inc. for the previous quarter</e1>, <e2>Wall Street now forecasts 2.17% EPS growth.</e2>

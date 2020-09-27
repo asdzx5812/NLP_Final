@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0004.00022	Thus, on 5 July 1841, some 500 passengers travelled by a special train for the 24-mile round trip, paying a shilling apiece.	Thus, on 5 July 1841, some 500 passengers travelled by a special train for the 24-mile round trip	paying a shilling apiece.			0	97	99	124	<e1>Thus, on 5 July 1841, some 500 passengers travelled by a special train for the 24-mile round trip</e1>, <e2>paying a shilling apiece.</e2>

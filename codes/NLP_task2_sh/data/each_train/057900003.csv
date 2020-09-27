@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0579.00003	They fell a further 12 per cent to 4p on Wednesday as analysts lowered price targets and cut forecasts.	analysts lowered price targets and cut forecasts.	They fell a further 12 per cent to 4p on Wednesday			54	103	0	50	<e2>They fell a further 12 per cent to 4p on Wednesday</e2> as <e1>analysts lowered price targets and cut forecasts.</e1>

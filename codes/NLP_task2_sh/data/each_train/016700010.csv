@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0167.00010	In other words, at least $9 billion in funding will or won't materialize if an IPO happens.	an IPO happens.	In other words, at least $9 billion in funding will or won't materialize			76	91	0	72	<e2>In other words, at least $9 billion in funding will or won't materialize</e2> if <e1>an IPO happens.</e1>

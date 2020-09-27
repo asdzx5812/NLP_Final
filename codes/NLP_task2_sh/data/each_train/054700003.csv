@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0547.00003	NYSEARCA:EXT traded down $0.50 during trading hours on Tuesday, reaching $33.79.	NYSEARCA:EXT traded down $0.50 during trading hours on Tuesday	reaching $33.79.			0	62	64	80	<e1>NYSEARCA:EXT traded down $0.50 during trading hours on Tuesday</e1>, <e2>reaching $33.79.</e2>

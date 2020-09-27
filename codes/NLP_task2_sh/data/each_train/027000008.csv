@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0270.00008	The business services provider reported ($0.03) EPS for the quarter, beating the Thomson Reuters' consensus estimate of ($0.15) by $0.12.	The business services provider reported ($0.03) EPS for the quarter	beating the Thomson Reuters' consensus estimate of ($0.15) by $0.12.			0	67	69	137	<e1>The business services provider reported ($0.03) EPS for the quarter</e1>, <e2>beating the Thomson Reuters' consensus estimate of ($0.15) by $0.12.</e2>

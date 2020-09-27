@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0147.00017	If she sells it before 6 April 2020, she will be entitled to private residence relief of £60,000 (30/48 x £96,000).	If she sells it before 6 April 2020	she will be entitled to private residence relief of £60,000 (30/48 x £96,000).			0	35	37	115	<e1>If she sells it before 6 April 2020</e1>, <e2>she will be entitled to private residence relief of £60,000 (30/48 x £96,000).</e2>

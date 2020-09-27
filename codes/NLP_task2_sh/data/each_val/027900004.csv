@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0279.00004	Pointer Telocation has a consensus target price of $15.36, suggesting a potential upside of 5.13%.	Pointer Telocation has a consensus target price of $15.36	suggesting a potential upside of 5.13%.			0	57	59	98	<e1>Pointer Telocation has a consensus target price of $15.36</e1>, <e2>suggesting a potential upside of 5.13%.</e2>

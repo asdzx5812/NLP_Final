@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0256.00006	Likewise, when he places $ 100 in a demand deposit at Bank One he also does not relinquish his claim over the deposited $100.	Likewise, when he places $ 100 in a demand deposit at Bank One	he also does not relinquish his claim over the deposited $100.			0	62	63	125	<e1>Likewise, when he places $ 100 in a demand deposit at Bank One</e1> <e2>he also does not relinquish his claim over the deposited $100.</e2>

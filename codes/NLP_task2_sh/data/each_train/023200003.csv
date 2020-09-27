@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0232.00003	Due to the forgone wages, the state of Michigan is losing roughly $446,000 per day in income tax revenue, the group said.	Due to the forgone wages	the state of Michigan is losing roughly $446,000 per day in income tax revenue, the group said.			0	24	26	121	<e1>Due to the forgone wages</e1>, <e2>the state of Michigan is losing roughly $446,000 per day in income tax revenue, the group said.</e2>

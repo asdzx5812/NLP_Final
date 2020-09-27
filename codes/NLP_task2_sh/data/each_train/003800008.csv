@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0038.00008	ECONOMY - Provide up to 2,000 entrepreneurs with C$50,000 to launch a new business.	launch a new business.	ECONOMY - Provide up to 2,000 entrepreneurs with C$50,000			61	83	0	57	<e2>ECONOMY - Provide up to 2,000 entrepreneurs with C$50,000</e2> to <e1>launch a new business.</e1>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0219.00009	However, selling the stake would have translated into a loss of around 320 million euros for the French group.	However, selling the stake	a loss of around 320 million euros for the French group.			0	26	54	110	<e1>However, selling the stake</e1> would have translated into <e2>a loss of around 320 million euros for the French group.</e2>

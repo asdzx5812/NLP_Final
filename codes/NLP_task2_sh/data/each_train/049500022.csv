@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0495.00022	An individual's qualifying gains for IR are subject to a lifetime cap of £10 million.	An individual's qualifying gains for IR	a lifetime cap of £10 million.			0	39	55	85	<e1>An individual's qualifying gains for IR</e1> are subject to <e2>a lifetime cap of £10 million.</e2>

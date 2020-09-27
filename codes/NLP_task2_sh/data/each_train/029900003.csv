@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0299.00003	The remaining 11 had an ETR below the 25.17% that they would have to shell out if they migrated to the new regime.	they migrated to the new regime.	The remaining 11 had an ETR below the 25.17% that they would have to shell out			82	114	0	78	<e2>The remaining 11 had an ETR below the 25.17% that they would have to shell out</e2> if <e1>they migrated to the new regime.</e1>

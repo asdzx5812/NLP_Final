@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0268.00006	The Omaha World-Herald reported the case of a 94-year-old widow who lost a $1.1 million farm and all of its equity over a $50,000 tax debt.	a $50,000 tax debt.	The Omaha World-Herald reported the case of a 94-year-old widow who lost a $1.1 million farm and all of its equity			120	139	0	114	<e2>The Omaha World-Herald reported the case of a 94-year-old widow who lost a $1.1 million farm and all of its equity</e2> over <e1>a $50,000 tax debt.</e1>

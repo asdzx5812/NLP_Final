@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0475.00109	Related to this, the construction of the International Conference Centre is progressing steadily, with 75% of the works done.	Related to this, the construction of the International Conference Centre is progressing steadily	75% of the works done.			0	96	103	125	<e1>Related to this, the construction of the International Conference Centre is progressing steadily</e1>, with <e2>75% of the works done.</e2>

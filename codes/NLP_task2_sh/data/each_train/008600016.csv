@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0086.00016	Accumulated profits at the firm last year increased from €2.74 million to €6.19 million.	Accumulated profits at the firm last year increased from €2.74 million	€6.19 million.			0	70	74	88	<e1>Accumulated profits at the firm last year increased from €2.74 million</e1> to <e2>€6.19 million.</e2>

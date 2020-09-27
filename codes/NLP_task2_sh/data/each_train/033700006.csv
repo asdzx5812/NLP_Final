@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0337.00006	Under the deal, Cortis would receive all his money back, plus 33% of the profits.	Under the deal	Cortis would receive all his money back, plus 33% of the profits.			0	14	16	81	<e1>Under the deal</e1>, <e2>Cortis would receive all his money back, plus 33% of the profits.</e2>

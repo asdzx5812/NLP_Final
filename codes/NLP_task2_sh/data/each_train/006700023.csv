@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0067.00023	Oppenheimer's stock slightly edged the S&P 500 by 1%, achieving a 20% return in 2019.	Oppenheimer's stock slightly edged the S&P 500 by 1%	achieving a 20% return in 2019.			0	52	54	85	<e1>Oppenheimer's stock slightly edged the S&P 500 by 1%</e1>, <e2>achieving a 20% return in 2019.</e2>

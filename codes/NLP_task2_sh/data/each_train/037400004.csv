@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0374.00004	Shares of NYSE:ERF traded up $0.02 during mid-day trading on Friday, reaching $7.33.	Shares of NYSE:ERF traded up $0.02 during mid-day trading on Friday	reaching $7.33.			0	67	69	84	<e1>Shares of NYSE:ERF traded up $0.02 during mid-day trading on Friday</e1>, <e2>reaching $7.33.</e2>

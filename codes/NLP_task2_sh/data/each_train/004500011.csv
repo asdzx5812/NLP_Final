@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0045.00011	The technology company reported $0.79 EPS for the quarter, topping analysts' consensus estimates of $0.77 by $0.02.	The technology company reported $0.79 EPS for the quarter	topping analysts' consensus estimates of $0.77 by $0.02.			0	57	59	115	<e1>The technology company reported $0.79 EPS for the quarter</e1>, <e2>topping analysts' consensus estimates of $0.77 by $0.02.</e2>

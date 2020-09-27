@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0285.00011	Activity level in the I&E Window fell 1.8 per cent to $1.07 billion from $1.08 billion recorded a fortnight ago.	Activity level in the I&E Window fell 1.8 per cent	$1.07 billion from $1.08 billion recorded a fortnight ago.			0	50	54	112	<e1>Activity level in the I&E Window fell 1.8 per cent</e1> to <e2>$1.07 billion from $1.08 billion recorded a fortnight ago.</e2>

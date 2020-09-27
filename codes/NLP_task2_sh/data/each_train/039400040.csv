@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0394.00040	The exodus is forcing plants to offer discounts of 10% to local companies like Xtep International Holdings Ltd.	The exodus	plants to offer discounts of 10% to local companies like Xtep International Holdings Ltd.			0	10	22	111	<e1>The exodus</e1> is forcing <e2>plants to offer discounts of 10% to local companies like Xtep International Holdings Ltd.</e2>

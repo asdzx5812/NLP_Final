@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0218.00009	Overstock.com Inc., down 62 cents to $15.57  The company's founder and former CEO, Patrick Byrne, sold all his holdings in the company.	The company's founder and former CEO, Patrick Byrne, sold all his holdings in the company.	Overstock.com Inc., down 62 cents to $15.57			45	135	0	43	<e2>Overstock.com Inc., down 62 cents to $15.57</e2>  <e1>The company's founder and former CEO, Patrick Byrne, sold all his holdings in the company.</e1>

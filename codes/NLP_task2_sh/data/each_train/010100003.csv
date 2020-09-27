@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0101.00003	A mother of five, Viola's annual income of €120 is derived primarily from the sale of rain-fed crops grown on her plot of 2.5 acres.	the sale of rain-fed crops grown on her plot of 2.5 acres.	A mother of five, Viola's annual income of €120			74	132	0	47	<e2>A mother of five, Viola's annual income of €120</e2> is derived primarily from <e1>the sale of rain-fed crops grown on her plot of 2.5 acres.</e1>

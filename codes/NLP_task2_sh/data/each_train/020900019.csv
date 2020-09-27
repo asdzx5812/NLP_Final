@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0209.00019	Its operating income was $1.8 billion, while net income decreased a little to $1.2 billion due to disposals.	disposals.	Its operating income was $1.8 billion, while net income decreased a little to $1.2 billion			98	108	0	90	<e2>Its operating income was $1.8 billion, while net income decreased a little to $1.2 billion</e2> due to <e1>disposals.</e1>

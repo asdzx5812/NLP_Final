@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0509.00003	New domestic manufacturing companies will be taxed at 15% to attract investments and give thrust to the Make-in-India initiative.	to attract investments and give thrust to the Make-in-India initiative.	New domestic manufacturing companies will be taxed at 15%			58	129	0	57	<e2>New domestic manufacturing companies will be taxed at 15%</e2> <e1>to attract investments and give thrust to the Make-in-India initiative.</e1>

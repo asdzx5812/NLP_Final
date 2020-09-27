@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0216.00013	There is a huge stigma with living at home, but when you can save >80%, it's a very attractive alternative lifestyle.	There is a huge stigma with living at home	you can save >80%, it's a very attractive alternative lifestyle.			0	42	53	117	<e1>There is a huge stigma with living at home</e1>, but when <e2>you can save >80%, it's a very attractive alternative lifestyle.</e2>

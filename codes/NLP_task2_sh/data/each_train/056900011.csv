@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0569.00011	Shareholders appeared to enjoy the ratcheting up of the rhetoric, with shares closing out the day up 262p at 7,514p.	Shareholders appeared to enjoy the ratcheting up of the rhetoric	shares closing out the day up 262p at 7,514p.			0	64	71	116	<e1>Shareholders appeared to enjoy the ratcheting up of the rhetoric</e1>, with <e2>shares closing out the day up 262p at 7,514p.</e2>

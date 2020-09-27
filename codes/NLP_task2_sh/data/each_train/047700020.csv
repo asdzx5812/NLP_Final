@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0477.00020	After these results, we are projecting for the entire year 2020 ahead comparable sales of 2.75-3.25%.	After these results	we are projecting for the entire year 2020 ahead comparable sales of 2.75-3.25%.			0	19	21	101	<e1>After these results</e1>, <e2>we are projecting for the entire year 2020 ahead comparable sales of 2.75-3.25%.</e2>

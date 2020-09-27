@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0311.00004	Alphabet  -  Alphabet's Google unit will invest $3.3 billion over the next two years to expand its European data centers.	expand its European data centers.	Alphabet  -  Alphabet's Google unit will invest $3.3 billion over the next two years			88	121	0	84	<e2>Alphabet  -  Alphabet's Google unit will invest $3.3 billion over the next two years</e2> to <e1>expand its European data centers.</e1>

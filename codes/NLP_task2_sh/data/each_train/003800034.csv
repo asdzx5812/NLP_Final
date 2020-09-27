@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0038.00034	CLIMATE - Invest in a 100% renewable electricity grid. Cut federal emission-level goals to 60% below 2005 levels by 2030.	Cut federal emission-level goals to 60% below 2005 levels by 2030.	CLIMATE - Invest in a 100% renewable electricity grid.	54		55	121	0	54	<e2>CLIMATE - Invest in a 100% renewable electricity grid.</e2> <e1>Cut federal emission-level goals to 60% below 2005 levels by 2030.</e1>

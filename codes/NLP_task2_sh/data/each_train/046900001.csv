@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0469.00001	Today, the ECB has actually delivered almost everything that investors wanted. As expected, the deposit rate has been lowered to minus 0.5%.	Today, the ECB has actually delivered almost everything that investors wanted.	As expected, the deposit rate has been lowered to minus 0.5%.	78		0	78	79	140	<e1>Today, the ECB has actually delivered almost everything that investors wanted.</e1> <e2>As expected, the deposit rate has been lowered to minus 0.5%.</e2>

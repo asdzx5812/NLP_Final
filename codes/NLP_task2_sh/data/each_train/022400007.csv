@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0224.00007	Autohome has a consensus price target of $100.12, indicating a potential upside of 8.99%.	Autohome has a consensus price target of $100.12	indicating a potential upside of 8.99%.			0	48	50	89	<e1>Autohome has a consensus price target of $100.12</e1>, <e2>indicating a potential upside of 8.99%.</e2>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0171.00015	If you file jointly as a married couple, this limit is raised to $32,000.	If you file jointly as a married couple	this limit is raised to $32,000.			0	39	41	73	<e1>If you file jointly as a married couple</e1>, <e2>this limit is raised to $32,000.</e2>

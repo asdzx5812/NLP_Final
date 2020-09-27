@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0359.00003	But when he turned 65 and enrolled in Medicare, the price of the drug skyrocketed to $2,400 for a 30-day supply.	But when he turned 65 and enrolled in Medicare	the price of the drug skyrocketed to $2,400 for a 30-day supply.			0	46	48	112	<e1>But when he turned 65 and enrolled in Medicare</e1>, <e2>the price of the drug skyrocketed to $2,400 for a 30-day supply.</e2>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0003.00004	The stock increased 1.02% or $0.23 during the last trading session, reaching $22.69.	The stock increased 1.02% or $0.23 during the last trading session	reaching $22.69.			0	66	68	84	<e1>The stock increased 1.02% or $0.23 during the last trading session</e1>, <e2>reaching $22.69.</e2>

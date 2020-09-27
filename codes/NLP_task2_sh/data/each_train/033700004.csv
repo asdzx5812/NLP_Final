@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0337.00004	Cortis had invested €60,000 in the venture after some convincing from Portelli.	some convincing from Portelli.	Cortis had invested €60,000 in the venture			49	79	0	42	<e2>Cortis had invested €60,000 in the venture</e2> after <e1>some convincing from Portelli.</e1>

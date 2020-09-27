@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0022.00008	The company reported C$0.24 EPS for the quarter, meeting the Zacks' consensus estimate of C$0.24.	The company reported C$0.24 EPS for the quarter	meeting the Zacks' consensus estimate of C$0.24.			0	47	49	97	<e1>The company reported C$0.24 EPS for the quarter</e1>, <e2>meeting the Zacks' consensus estimate of C$0.24.</e2>

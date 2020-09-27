@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0413.00009	Village Farms International has a consensus target price of $29.00, suggesting a potential upside of 178.04%.	Village Farms International has a consensus target price of $29.00	suggesting a potential upside of 178.04%.			0	66	68	109	<e1>Village Farms International has a consensus target price of $29.00</e1>, <e2>suggesting a potential upside of 178.04%.</e2>

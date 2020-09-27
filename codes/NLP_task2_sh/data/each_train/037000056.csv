@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0370.00056	Gold also saw its 15 count increase to +11 from 19 to 24 June of this year as the price of gold was at or below $1419.	the price of gold was at or below $1419.	Gold also saw its 15 count increase to +11 from 19 to 24 June of this year			78	118	0	74	<e2>Gold also saw its 15 count increase to +11 from 19 to 24 June of this year</e2> as <e1>the price of gold was at or below $1419.</e1>

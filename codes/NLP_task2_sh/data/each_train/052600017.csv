@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0526.00017	More than 20,000 jobs across the group are at risk if it collapses, with 9,000 of those jobs in the UK.	it collapses, with 9,000 of those jobs in the UK.	More than 20,000 jobs across the group are at risk			54	103	0	50	<e2>More than 20,000 jobs across the group are at risk</e2> if <e1>it collapses, with 9,000 of those jobs in the UK.</e1>

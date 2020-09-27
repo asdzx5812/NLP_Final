@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0365.00014	Small-cap Metro Bank sank 35% to a new life-low after it ditched a 250 million pound bond issue on Monday after failing to attract investors.	failing to attract investors.	Small-cap Metro Bank sank 35% to a new life-low after it ditched a 250 million pound bond issue on Monday			112	141	0	105	<e2>Small-cap Metro Bank sank 35% to a new life-low after it ditched a 250 million pound bond issue on Monday</e2> after <e1>failing to attract investors.</e1>

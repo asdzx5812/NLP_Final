@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0433.00048	Since my target organic DGR is 8%, I am reassured to see the average DGR of the Roth and Traditional is ~8%.	Since my target organic DGR is 8%	I am reassured to see the average DGR of the Roth and Traditional is ~8%.			0	33	35	108	<e1>Since my target organic DGR is 8%</e1>, <e2>I am reassured to see the average DGR of the Roth and Traditional is ~8%.</e2>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0046.00007	GBP is the strongest of the majors, up 0.6% to 1.2540, on a continuing positive Brexit vibe.	continuing positive Brexit vibe.	GBP is the strongest of the majors, up 0.6% to 1.2540,			60	92	0	54	<e2>GBP is the strongest of the majors, up 0.6% to 1.2540,</e2> on a <e1>continuing positive Brexit vibe.</e1>

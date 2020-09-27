@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0585.00020	Port of Tauranga was down 2.2 percent, or 14 cents, after ceding rights to a 12.3 cent dividend.	ceding rights to a 12.3 cent dividend.	Port of Tauranga was down 2.2 percent, or 14 cents,			58	96	0	51	<e2>Port of Tauranga was down 2.2 percent, or 14 cents,</e2> after <e1>ceding rights to a 12.3 cent dividend.</e1>

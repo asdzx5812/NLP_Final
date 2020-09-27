@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0277.00012	Chloe and her fiance will even have 33 relations flying out, with their journeys costing greater than £33,000 in complete.	Chloe and her fiance will even have 33 relations flying out	their journeys costing greater than £33,000 in complete.			0	59	66	122	<e1>Chloe and her fiance will even have 33 relations flying out</e1>, with <e2>their journeys costing greater than £33,000 in complete.</e2>

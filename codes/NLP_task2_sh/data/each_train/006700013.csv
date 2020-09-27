@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0067.00013	Investors are catching on to B. Riley's growth story, driving up shares more than 70% year-to-date.	Investors are catching on to B. Riley's growth story	driving up shares more than 70% year-to-date.			0	52	54	99	<e1>Investors are catching on to B. Riley's growth story</e1>, <e2>driving up shares more than 70% year-to-date.</e2>

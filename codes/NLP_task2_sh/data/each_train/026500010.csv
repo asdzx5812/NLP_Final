@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0265.00010	The company reported $0.93 earnings per share for the quarter, topping the Zacks' consensus estimate of $0.88 by $0.05.	The company reported $0.93 earnings per share for the quarter	topping the Zacks' consensus estimate of $0.88 by $0.05.			0	61	63	119	<e1>The company reported $0.93 earnings per share for the quarter</e1>, <e2>topping the Zacks' consensus estimate of $0.88 by $0.05.</e2>

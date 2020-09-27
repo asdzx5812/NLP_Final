@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0278.00020	I'm absolutely gutted, Mr. Roche said, adding that around 80 percent of the guests would not be able to make it because of the extra costs.	the extra costs.	I'm absolutely gutted, Mr. Roche said, adding that around 80 percent of the guests would not be able to make it			123	139	0	111	<e2>I'm absolutely gutted, Mr. Roche said, adding that around 80 percent of the guests would not be able to make it</e2> because of <e1>the extra costs.</e1>

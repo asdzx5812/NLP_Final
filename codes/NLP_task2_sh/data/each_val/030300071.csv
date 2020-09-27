@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0303.00071	Because of one of the lawsuits, Tran is forbidden to sell the property, valued at $2.2 million.	Because of one of the lawsuits	Tran is forbidden to sell the property, valued at $2.2 million.			0	30	32	95	<e1>Because of one of the lawsuits</e1>, <e2>Tran is forbidden to sell the property, valued at $2.2 million.</e2>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0012.00028	The unexpected Trump victory led to an 8.3 percent rise in USD/MXN overnight.	The unexpected Trump victory	an 8.3 percent rise in USD/MXN overnight.			0	28	36	77	<e1>The unexpected Trump victory</e1> led to <e2>an 8.3 percent rise in USD/MXN overnight.</e2>

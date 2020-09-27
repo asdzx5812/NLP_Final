@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0423.00003	iShares U.S. Aerospace & Defense ETF stock traded down $0.64 during trading on Tuesday, hitting $225.86.	iShares U.S. Aerospace & Defense ETF stock traded down $0.64 during trading on Tuesday	hitting $225.86.			0	86	88	104	<e1>iShares U.S. Aerospace & Defense ETF stock traded down $0.64 during trading on Tuesday</e1>, <e2>hitting $225.86.</e2>

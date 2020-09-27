@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0332.00029	With this grant from the U.S. Department of Education, the institute says it's about 70% to its goal for this project.	With this grant from the U.S. Department of Education	the institute says it's about 70% to its goal for this project.			0	53	55	118	<e1>With this grant from the U.S. Department of Education</e1>, <e2>the institute says it's about 70% to its goal for this project.</e2>

@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0367.00063	If you're fortunate to approach a six-figure income, then saving 50% of take-home pay is entirely within reason.	If you're fortunate to approach a six-figure income	saving 50% of take-home pay is entirely within reason.			0	51	58	112	<e1>If you're fortunate to approach a six-figure income</e1>, then <e2>saving 50% of take-home pay is entirely within reason.</e2>

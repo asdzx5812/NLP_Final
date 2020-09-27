@@ -1,0 +1,2 @@
+Index	Text	Cause	Effect	Offset_Sentence2	Offset_Sentence3	Cause_Start	Cause_End	Effect_Start	Effect_End	Sentence
+0117.00005	KeyCorp has a consensus target price of $23.98, suggesting a potential upside of 34.95%.	KeyCorp has a consensus target price of $23.98	suggesting a potential upside of 34.95%.			0	46	48	88	<e1>KeyCorp has a consensus target price of $23.98</e1>, <e2>suggesting a potential upside of 34.95%.</e2>
